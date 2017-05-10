@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B4BB31021EC35EB200815E77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BB31011EC35EB200815E77 /* AppDelegate.swift */; };
-		B4BB31041EC35EB200815E77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BB31031EC35EB200815E77 /* ViewController.swift */; };
+		B4BB31041EC35EB200815E77 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4BB31031EC35EB200815E77 /* RecordSoundsViewController.swift */; };
 		B4BB31071EC35EB200815E77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4BB31051EC35EB200815E77 /* Main.storyboard */; };
 		B4BB31091EC35EB200815E77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4BB31081EC35EB200815E77 /* Assets.xcassets */; };
 		B4BB310C1EC35EB200815E77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4BB310A1EC35EB200815E77 /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		B4BB30FE1EC35EB200815E77 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4BB31011EC35EB200815E77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B4BB31031EC35EB200815E77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B4BB31031EC35EB200815E77 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
 		B4BB31061EC35EB200815E77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B4BB31081EC35EB200815E77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4BB310B1EC35EB200815E77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				B4BB31011EC35EB200815E77 /* AppDelegate.swift */,
-				B4BB31031EC35EB200815E77 /* ViewController.swift */,
+				B4BB31031EC35EB200815E77 /* RecordSoundsViewController.swift */,
 				B4BB31051EC35EB200815E77 /* Main.storyboard */,
 				B4BB31081EC35EB200815E77 /* Assets.xcassets */,
 				B4BB310A1EC35EB200815E77 /* LaunchScreen.storyboard */,
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4BB31041EC35EB200815E77 /* ViewController.swift in Sources */,
+				B4BB31041EC35EB200815E77 /* RecordSoundsViewController.swift in Sources */,
 				B4BB31021EC35EB200815E77 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
